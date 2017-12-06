@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+crawler_dock_api.iml
+dock/.mvn/
+dock/mvnw
+dock/mvnw.cmd
